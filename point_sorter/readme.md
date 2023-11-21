@@ -1,0 +1,1 @@
+Module for generating training and test data sets for neural network.
